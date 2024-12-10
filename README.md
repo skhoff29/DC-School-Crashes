@@ -10,7 +10,9 @@ School Map: https://public.tableau.com/views/Pedestrian-InvolvedCrashesNearSchoo
 
 ## Files
 • Tableau/ShadedSchools.twbx: Tableau Packaged Workbook.
+
 • R/: R Source Code and HTML Knit
+
 • Data/: Raw and cleaned data used in the analysis.
 
 ### Instructions
