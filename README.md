@@ -9,11 +9,13 @@ Ward Comparison: https://public.tableau.com/views/Pedestrian-InvolvedCrashesNear
 School Map: https://public.tableau.com/views/Pedestrian-InvolvedCrashesNearSchoolsinWashingtonD_C_2019-2023SchoolMap/MapDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Files
-• Tableau/ShadedSchools.twbx: Tableau Packaged Workbook.
+• Tableau Wrokbook/HoffmanS_ShadedSchools.twbx: Tableau Packaged Workbook.
 
-• R/: R Source Code and HTML Knit
+• Source Code and HTML Knit/: R Source Code and HTML Knit
 
-• Data/: Raw and cleaned data used in the analysis.
+• Raw Data/: Raw data dowloaded from OpenDataDC or handcoded and used in R 
+
+• Cleaned Data/: Cleaned data used for Tableau Workbook
 
 ### Instructions
 Download the .twbx file.
